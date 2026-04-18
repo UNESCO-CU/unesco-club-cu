@@ -1034,7 +1034,7 @@ export default function App() {
                                                 {/* Stop propagation so clicking button doesn't close the card */}
                                                 <div onClick={(e) => e.stopPropagation()}>
                                                     <a
-                                                        href="https://https://forms.gle/KbHgsFXMJJDjbk9a7"
+                                                        href="https://forms.gle/KbHgsFXMJJDjbk9a7"
                                                         target="_blank"
                                                         rel="noopener noreferrer"
                                                         className="block w-full text-center py-4 rounded-xl shadow-md text-base font-bold text-white bg-[#0077D4] hover:bg-[#005FA8] hover:-translate-y-0.5 transition-all duration-200"
