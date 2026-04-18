@@ -19,7 +19,7 @@ const translations = {
         nav: { discover: 'Discover', about: 'About Us', initiatives: 'Initiatives', partners: 'Partners', join: 'Join Us', team: 'Team Portal', memberBtn: 'Become a Member' },
         langToggle: 'عربي',
         hero: {
-            badge: 'Official Chapter at Cairo University',
+            badge: 'Official Chapter at Cairo University - Beta Website',
             title1: 'Connect. Create.',
             title2: 'Transform Campus Life.',
             desc: 'We are a community of passionate students dedicated to innovation, cultural exchange, and sustainable development. Discover your potential with us.',
@@ -38,17 +38,13 @@ const translations = {
             ]
         },
         events: {
-            title: 'Upcoming Highlights',
+            title: 'Upcoming Highlights - This section is still under construction',
             desc: "Don't miss out on what we are planning next.",
             viewAll: 'View all events',
-            e1Title: 'First General Meeting & Info Session',
+            e1Title: 'Cairo University Employment Fair 2026',
             e1Desc: 'Join us to learn exactly what we do, meet the board, and find out how you can get involved this semester.',
-            e1Loc: 'Main Campus Auditorium',
-            e1Date: 'Oct 15, 2026',
-            e2Title: 'Sustainability Workshop',
-            e2Desc: 'A hands-on workshop led by industry professionals to help you ideate and prototype solutions for real-world environmental problems.',
-            e2Loc: 'Innovation Lab, Room 302',
-            e2Date: 'Nov 02, 2026'
+            e1Loc: 'Main Campus',
+            e1Date: 'April 19, 2026',
         },
         about: {
             title: 'About Us',
@@ -81,13 +77,14 @@ const translations = {
             structPeopleTeams: ['People & Culture'],
             structValueText: 'Provides Value For',
             structL6: 'Club Members',
-            keyPeopleTitle: 'Key People',
+            keyPeopleTitle: 'Key People - This section is under construction',
             keyPeopleList: [
-                { name: 'John Doe', role: 'Chairman', img: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=256&q=80' },
-                { name: 'Jane Smith', role: 'Executive Ambassador', img: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=256&q=80' },
-                { name: 'Ahmed Ali', role: 'Head of Operations', img: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=256&q=80' },
-                { name: 'Sara Hassan', role: 'Head of Value Creation', img: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=256&q=80' },
-                { name: 'Omar Khaled', role: 'Head of People & Culture', img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=256&q=80' }
+                { name: 'Dr. Abeer Abdelrahman Mahrous', role: 'Chairman' },
+                { name: 'Bishoy Ragy', role: 'Executive Ambassador' },
+                { name: 'Khadija Sameh', role: 'Head of Operations' },
+                { name: 'Khaled Essam', role: 'Head of Value Creation' },
+                { name: 'Maya Mostafa', role: 'Head of People & Culture' },
+                { name: 'Peter Hany', role: 'Marketing Team Leader' },
             ]
         },
         partners: {
@@ -113,7 +110,7 @@ const translations = {
             ctaBtn: 'Contact PR Team'
         },
         initiatives: {
-            title: 'Our Initiatives',
+            title: 'Our Initiatives - This section is under construction',
             desc: 'Explore our latest projects, campaigns, and discover how you can get involved in making a real impact.',
             categoryLabel: 'Category:',
             deadlineLabel: 'Deadline',
@@ -237,7 +234,7 @@ const translations = {
         nav: { discover: 'اكتشف', about: 'من نحن', initiatives: 'المبادرات', partners: 'الشركاء', join: 'انضم إلينا', team: 'بوابة الفريق', memberBtn: 'كن عضواً' },
         langToggle: 'English',
         hero: {
-            badge: 'الفرع الرسمي بجامعة القاهرة',
+            badge: 'موقع تجريبى - الفرع الرسمي بجامعة القاهرة',
             title1: 'تواصل. ابتكر.',
             title2: 'غيّر الحياة الجامعية.',
             desc: 'نحن مجتمع من الطلاب الشغوفين المكرسين للابتكار والتبادل الثقافي والتنمية المستدامة. اكتشف إمكاناتك معنا.',
@@ -256,17 +253,13 @@ const translations = {
             ]
         },
         events: {
-            title: 'أبرز الفعاليات القادمة',
+            title: 'أبرز الفعاليات القادمة - هذا القسم لا يزال تحت الإنشاء',
             desc: 'لا تفوت ما نخطط له بعد ذلك.',
             viewAll: 'عرض جميع الفعاليات',
-            e1Title: 'الاجتماع العام الأول وجلسة تعريفية',
+            e1Title: 'الملتقى التوظيفى لجامعة القاهرة ٢٠٢٦',
             e1Desc: 'انضم إلينا لمعرفة ما نقوم به بالضبط، ومقابلة أعضاء المجلس، ومعرفة كيف يمكنك المشاركة هذا الفصل الدراسي.',
-            e1Loc: 'قاعة الحرم الجامعي الرئيسية',
-            e1Date: '١٥ أكتوبر ٢٠٢٦',
-            e2Title: 'ورشة عمل الاستدامة',
-            e2Desc: 'ورشة عمل عملية بقيادة متخصصين لمساعدتك على ابتكار وتصميم حلول للمشاكل البيئية الواقعية.',
-            e2Loc: 'مختبر الابتكار، غرفة ٣٠٢',
-            e2Date: '٠٢ نوفمبر ٢٠٢٦'
+            e1Loc: 'الحرم الجامعى',
+            e1Date: '١٩ ابريل ٢٠٢٦',
         },
         about: {
             title: 'من نحن',
@@ -299,13 +292,14 @@ const translations = {
             structPeopleTeams: ['الأفراد والثقافة'],
             structValueText: 'يقدمون القيمة لـ',
             structL6: 'أعضاء النادي',
-            keyPeopleTitle: 'الشخصيات الرئيسية',
+            keyPeopleTitle: 'الشخصيات الرئيسية - لا يزال هذا اللقسم تحت الإنشاء',
             keyPeopleList: [
-                { name: 'يحيى أحمد', role: 'رئيس النادي', img: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=256&q=80' },
-                { name: 'جنى محمد', role: 'السفير التنفيذي', img: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=256&q=80' },
-                { name: 'أحمد علي', role: 'رئيس العمليات', img: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=256&q=80' },
-                { name: 'سارة حسن', role: 'رئيس خلق القيمة', img: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=256&q=80' },
-                { name: 'عمر خالد', role: 'رئيس الأفراد والثقافة', img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=256&q=80' }
+                { name: 'د. عبير عبد الرحمن محروس', role: 'رئيس النادي' },
+                { name: 'بيشوي راجى', role: 'السفير التنفيذي' },
+                { name: 'أخديجة سامح', role: 'رئيس العمليات' },
+                { name: 'خالد عصام', role: 'رئيس ابتكار القيمة' },
+                { name: 'مايا مصطفي', role: 'رئيس الموارد البشرية' },
+                { name: 'بيتر هانى', role: 'قائد فريق التسويق' },
             ]
         },
         partners: {
@@ -331,7 +325,7 @@ const translations = {
             ctaBtn: 'تواصل مع العلاقات العامة'
         },
         initiatives: {
-            title: 'مبادراتنا',
+            title: 'مبادراتنا - هذا القسم لا يزال تحت الإنشاء',
             desc: 'استكشف أحدث مشاريعنا وحملاتنا، واكتشف كيف يمكنك المشاركة في إحداث تأثير حقيقي.',
             categoryLabel: 'الفئة:',
             deadlineLabel: 'الموعد النهائي',
