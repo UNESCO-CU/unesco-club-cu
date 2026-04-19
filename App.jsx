@@ -1466,7 +1466,7 @@ export default function App() {
                                         {t.partners.ctaDesc}
                                     </p>
                                     <a
-                                        href="mailto:pr@unescoclubcu.org"
+                                        href="mailto:ucsd@cu.edu.eg"
                                         className="inline-flex items-center gap-3 bg-white text-[#0077D4] px-10 py-5 rounded-full text-lg font-bold hover:bg-slate-50 hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
                                     >
                                         <Mail className="w-6 h-6" />
